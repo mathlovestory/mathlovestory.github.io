@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>废话 on Math Love Stories</title>
+    <link>http://mathlovestory.github.io/categories/%E5%BA%9F%E8%AF%9D/</link>
+    <description>Recent content in 废话 on Math Love Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch</language>
+    <lastBuildDate>Sat, 18 Jul 2020 21:12:53 -0400</lastBuildDate>
+    
+	<atom:link href="http://mathlovestory.github.io/categories/%E5%BA%9F%E8%AF%9D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>新站第一篇日记</title>
+      <link>http://mathlovestory.github.io/blog/b1/</link>
+      <pubDate>Sat, 18 Jul 2020 21:12:53 -0400</pubDate>
+      
+      <guid>http://mathlovestory.github.io/blog/b1/</guid>
+      <description>哈哈哈哈俺老孙又回来了。</description>
+    </item>
+    
+  </channel>
+</rss>

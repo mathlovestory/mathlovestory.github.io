@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Math Love Stories</title>
+    <link>http://mathlovestory.github.io/blog/</link>
+    <description>Recent content in Blogs on Math Love Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch</language>
+    <lastBuildDate>Mon, 20 Jul 2020 22:29:26 -0400</lastBuildDate>
+    
+	<atom:link href="http://mathlovestory.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>顺便更新</title>
+      <link>http://mathlovestory.github.io/blog/b3/</link>
+      <pubDate>Mon, 20 Jul 2020 22:29:26 -0400</pubDate>
+      
+      <guid>http://mathlovestory.github.io/blog/b3/</guid>
+      <description>哦，顺便更新一下朋友和女神的消息。 哦，没有新消息。还是原地踏步。</description>
+    </item>
+    
+    <item>
+      <title>介绍一下我的朋友</title>
+      <link>http://mathlovestory.github.io/blog/b2/</link>
+      <pubDate>Sat, 18 Jul 2020 21:16:26 -0400</pubDate>
+      
+      <guid>http://mathlovestory.github.io/blog/b2/</guid>
+      <description>我的朋友，今后简称SD，stand for 沙雕。 SD是一名普通的数学PhD，她普通地喜欢上了一名数学系女教授，今后简称女神。前几天SD不是得到了女神的电话吗？我为她高兴了几秒就高兴不起来了。因为SD是见到白</description>
+    </item>
+    
+    <item>
+      <title>新站第一篇日记</title>
+      <link>http://mathlovestory.github.io/blog/b1/</link>
+      <pubDate>Sat, 18 Jul 2020 21:12:53 -0400</pubDate>
+      
+      <guid>http://mathlovestory.github.io/blog/b1/</guid>
+      <description>哈哈哈哈俺老孙又回来了。</description>
+    </item>
+    
+  </channel>
+</rss>
